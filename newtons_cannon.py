@@ -65,10 +65,10 @@ def newtons_cannon(factor, deg, h, ax, t_max, label):
 
     Parameters:
         factor (float): Multiple of orbital velocity, scaling initial velocity. 
-        deg (float): Lauch angle in degrees. 
+        deg (float): Launch angle in degrees. 
         h (float): Altitude above Earth's surface in km. 
         ax: Axes object to plot trajectory.
-        t_max (float): Max simulation time in seconcs. 
+        t_max (float): Max simulation time in seconds. 
         label (str): Label for the plot.
     
     """
