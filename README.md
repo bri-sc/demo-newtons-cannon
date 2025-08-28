@@ -4,7 +4,7 @@ This is a Bristol Scientific Computing (BriSC) Python interactive demonstration 
 
 As this demo is Physics-themed, this assumes some knowledge of A-level Physics but no knowledge of computing is required. This demonstrates modelling of projectile motion and the concept of Newton's Cannon.
 
-Click on this link to launch this through BinderHub:
+Click on this link to launch this through MyBinder:
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bri-sc/physics-demo/HEAD?urlpath=%2Fdoc%2Ftree%2Fphys.ipynb)
 
