@@ -1,6 +1,6 @@
-This is a Bristol Scientific Computing (BriSC) Python interactive demonstration. This provides a taster for the type of coding and approach we take on the "X with Computing" and "Scientific Computing with Data Science" programmes at the University of Bristol. See the [BriSC webpage](https://brisc.blogs.bristol.ac.uk/) and [Postgraduate Programme for Scientific Computing with Data Science](https://www.bristol.ac.uk/study/postgraduate/taught/msc-scientific-computing-with-data-science/) for more details.
+This is a Bristol Scientific Computing (BriSC) Python interactive demonstration that showcases how Physics can be applied in a computing context. This provides a taster for the type of coding and approach we take on the "X with Computing" and "Scientific Computing with Data Science" programmes at the University of Bristol. See the [BriSC webpage](https://brisc.blogs.bristol.ac.uk/) and [Postgraduate Programme for Scientific Computing with Data Science](https://www.bristol.ac.uk/study/postgraduate/taught/msc-scientific-computing-with-data-science/) for more details.
 
-This demo is Physics-themed and so assume some knowledge of A-level Physics. This demonstrates modelling of projectile motion and the concept of Newton's Cannon.
+As this demo is Physics-themed, this assumes some knowledge of A-level Physics but no knowledge of computing is required. This demonstrates modelling of projectile motion and the concept of Newton's Cannon.
 
 Click on this link to launch this through BinderHub:
 
