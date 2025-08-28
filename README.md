@@ -6,4 +6,6 @@ Click on this link to launch this through BinderHub:
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bri-sc/physics-demo/HEAD?urlpath=%2Fdoc%2Ftree%2Fphys.ipynb)
 
+Note: this may take a while to load as MyBinder is building a coding environment for you to use in the cloud. This will not save any changes made to the file and will timeout after a few minutes of inactivity but can be relaunched.
+
 The Python module code used within the demo is available in the [newtons_cannon.py](https://github.com/bri-sc/demo-newtons-cannon/blob/main/newtons_cannon.py) module file and the Jupyter notebook itself is [phys.ipynb](https://github.com/bri-sc/demo-newtons-cannon/blob/main/phys.ipynb).
